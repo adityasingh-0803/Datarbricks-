@@ -1,1 +1,11 @@
-
+event_type,product_name,brand,price,user_id
+view,iPhone 14,Apple,999,101
+purchase,Galaxy S23,Samsung,799,102
+view,MacBook Pro,Apple,1999,103
+cart,iPad,Apple,1099,104
+purchase,Pixel 8,Google,699,105
+view,AirPods Pro,Apple,249,106
+cart,Galaxy Buds,Samsung,149,107
+purchase,Apple Watch,Apple,399,108
+view,Surface Laptop,Microsoft,1299,109
+purchase,OnePlus 12,OnePlus,749,110
